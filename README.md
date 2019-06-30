@@ -27,3 +27,16 @@ http://127.0.0.1:4995/blogs
 ### 2.4. Criaçãr de um novo blog
 http://127.0.0.1:4995/blogs/new
 
+## 3. Como contribuir?
+
+### Qualquer pessoa pode contribuir com esse projeto da seguinte forma:
+- Melhorando a documentação
+- Fazendo sugestões de novas funcinalidades [aqui](https://github.com/wescley/web_blog/issues)
+- Reportando Bugs [aqui](https://github.com/wescley/web_blog/issues)
+- Divulgando o projeto
+
+### Como programadores podem contribuir. Além das formas acima segue:
+- Implementando novas funcionalidades
+- Corrigingo Bus reportados [aqui](https://github.com/wescley/web_blog/issues)
+- Refatorando código
+- Indruduzindo novas tecnologias ao projeto.
