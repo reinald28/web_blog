@@ -15,7 +15,8 @@ Web blog REST desenvolvido em python e mongodb
 
 `git clone https://github.com/wescley/web_blog`
 
-**Passo:4** Executar o script app.py na pasta /src
+**Passo:4** Executar o script *app.py* na pasta /src
+
 `python app.py` 
 
 **Passo:5** Acessar no browser a url: [http://127.0.0.1:5000/](http://127.0.0.1:5000/)
