@@ -1,15 +1,11 @@
-from src.common.database import Database
-from src.models.blog import Blog
-from src.models.post import Post
-from src.models.user import User
-
-__author__ = 'jslvtr'
-
-
+from common.database import Database
+from models.blog import Blog
+from models.post import Post
+from models.user import User
 from flask import Flask, render_template, request, session, make_response
 
 app = Flask(__name__)  # '__main__'
-app.secret_key = "jose"
+app.secret_key = "admin"
 
 
 @app.route('/')
@@ -107,4 +103,4 @@ def create_new_post(blog_id):
 
 
 if __name__ == '__main__':
-    app.run(port=4995, debug=True)
+    app.run(port=5000, debug=True)
